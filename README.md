@@ -1,0 +1,2 @@
+# com.qas.webshops
+HybridFramework
